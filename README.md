@@ -1,15 +1,10 @@
 <h1 align="center">Hi, I'm Berat</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beratgdlk&label=Profile%20views&color=0e75b6&style=flat" alt="beratgdlk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beratgdlk" alt="beratgdlk" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/beratgdlk](https://github.com/beratgdlk)
-
-- 📫 How to reach me **beratgdlk@gmail.com**
+I’m currently learning **Javascript**
+📫How to reach me **beratgdlk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
