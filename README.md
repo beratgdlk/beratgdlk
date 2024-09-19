@@ -18,6 +18,6 @@ I’m currently learning **Javascript**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beratgdlk&show_icons=true&locale=en&layout=compact" alt="beratgdlk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beratgdlk&show_icons=true&locale=en" alt="beratgdlk" /></p>
+<p>&nbsp;<img align="start" src="https://github-readme-stats.vercel.app/api?username=beratgdlk&show_icons=true&locale=en" alt="beratgdlk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beratgdlk&" alt="beratgdlk" /></p>
+<p><img align="end" src="https://github-readme-streak-stats.herokuapp.com/?user=beratgdlk&" alt="beratgdlk" /></p>
