@@ -1,5 +1,5 @@
 
-![Uploading Purple Blue Modern World Computer and Technology Linkedin Banner.png…]()
+![Purple Blue Modern World Computer and Technology Linkedin Banner](https://github.com/user-attachments/assets/4701fb54-547f-490f-bdef-193f16999020)
 
 <h2 align="center">Greetings</h2>
 <h3 align="center">Languages and Tools:</h3>
