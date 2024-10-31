@@ -1,5 +1,5 @@
 
-![Leonardo_Phoenix_A_cinematic_keyframe_depicting_a_technologica_0](https://github.com/user-attachments/assets/7be36098-3c5b-4e93-acc2-f10c54e24323)
+![Uploading Purple Blue Modern World Computer and Technology Linkedin Banner.png…]()
 
 <h2 align="center">Greetings</h2>
 <h3 align="center">Languages and Tools:</h3>
