@@ -4,7 +4,5 @@
 
 <h2 align="center">Greetings</h2>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=beratgdlk&show_icons=true&locale=en&layout=compact" alt="beratgdlk" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beratgdlk&" alt="beratgdlk" /></p>
-
 
 
