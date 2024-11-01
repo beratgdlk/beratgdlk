@@ -3,7 +3,7 @@
 
 
 <h2 align="center">Greetings</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beratgdlk&show_icons=true&locale=en&layout=compact" alt="beratgdlk" style="width: 600px;" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beratgdlk&show_icons=true&locale=en&layout=compact" alt="beratgdlk" style="width: 500px; height: 250px;" /></p>
 
 
 
