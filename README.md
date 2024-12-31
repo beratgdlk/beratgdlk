@@ -8,5 +8,5 @@
 
 
 <div align="center">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beratgdlk&show_icons=true&locale=en&layout=compact" alt="beratgdlk" style="width: 350px; height: 250px;" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beratgdlk&show_icons=true&locale=en&layout=compact" alt="beratgdlk" style="width: 350px; height: 255px;" /></p>
 </div>
